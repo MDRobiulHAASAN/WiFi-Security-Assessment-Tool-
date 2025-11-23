@@ -1,40 +1,33 @@
-We welcome contributions! Please see our Contributing Guide for details.
+# Contributing Guide
 
-Development Process
+We love your input! We want to make contributing as easy and transparent as possible.
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+## Development Setup
 
-📜 License
+1. Fork the repo and create your branch from `main`
+2. Install PlatformIO
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Pull Request Process
 
-🆘 Support
+1. Update documentation if needed
+2. Add tests for new functionality
+3. Ensure all tests pass
+4. Update CHANGELOG.md
+5. Request review from maintainers
 
-· 📖 Documentation
-· 🐛 Issue Tracker
-· 💬 Discussions
+## Code Style
 
-🔒 Security
+- Follow Arduino/ESP32 coding conventions
+- Use descriptive variable names
+- Comment complex logic
+- Keep functions focused and small
 
-Please report security vulnerabilities privately via security email. Do not create public issues.
+## Feature Requests
 
-🙏 Acknowledgments
-
-· ESP32 Arduino Core Team
-· PlatformIO Community
-· Security researchers and educators
-
----
-
-<div align="center">
-
-Use Responsibly • Test Ethically • Learn Continuously
-
-Made with ❤️ for the security community
-
-</div>
-```
+We welcome feature requests! Please open an issue with:
+- Use case description
+- Proposed implementation
+- Benefits to users
